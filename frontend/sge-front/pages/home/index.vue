@@ -18,7 +18,7 @@ const logout = () =>{
 <template>
     <div>
         <h1>Minha Tela Home!!!</h1>
-        <button @click="logout" class="customButton">SAIR</button>    
+        <button @click="logout" class="customButton">SAIR 👋</button>    
     </div>
 </template>
 
